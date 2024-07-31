@@ -1,0 +1,15 @@
+.modal-custom {
+    height: 200px;
+    width: 300px;
+    background-color: red;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 0px;
+}
+
+.modal-custom input 
+{
+    outline: none;
+    height: auto;
+}
+
